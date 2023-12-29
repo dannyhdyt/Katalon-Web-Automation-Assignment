@@ -29,5 +29,7 @@ WebUI.waitForPageLoad(3)
 
 WebUI.click(findTestObject('Object Repository/demoblaze.com/Purchase_Page/a_Add to cart'))
 
-not_run: WebUI.delay(2)
+WebUI.verifyAlertPresent(0)
+
+WebUI.delay(2)
 
