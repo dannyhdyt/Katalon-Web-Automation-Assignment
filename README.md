@@ -2,10 +2,6 @@
 
 This repository contains a web automation project using Katalon Studio for testing the [DemoBlaze](https://demoblaze.com/) website.
 
-## Overview
-
-The project aims to automate various test scenarios for the DemoBlaze website using Katalon, providing a foundation for functional and regression testing.
-
 ## Features
 
 - **Test Suites:** Includes comprehensive test suites covering different aspects of the DemoBlaze website.
@@ -28,11 +24,18 @@ To run these tests locally, follow these steps:
     git clone https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment.git 
     ```
 2. Open Katalon Studio.
-3. Open the project in Katalon, after using git clone there will be a folder nama `Katalon-Web-Automation-Assignment`
+3. After git clone there will be a folder name `Katalon-Web-Automation-Assignment`, Open the project in Katalon
 4. Configure necessary settings (e.g., browser choice, test data).
-5. Run the desired test suites or individual test cases.
+5. Run the desired test suites, `Single_Test` or `Paralel_Test` for run all test
 
-## Usage
+![image](https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment/assets/153344198/3913a161-92c9-4b21-a409-a1dab83c7e04)
 
-- Execute specific test suites or individual test cases based on the testing requirements.
-- Customize and extend the tests to cover additional scenarios as needed.
+### Report
+
+Visit Plugin Store and download the free [Basic Report](https://store.katalon.com/?query=report), after running a test on the Test Suites, open the containing folder on the report feature there you will find the HTML file
+
+![image](https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment/assets/153344198/fec939a6-5b98-41c8-b87b-3468bd1dd2d3)
+
+![image](https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment/assets/153344198/ea87a533-a8f9-4a3f-899c-8eee6ed10be3)
+
+![SDCEhMPu04](https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment/assets/153344198/cc3b131f-b809-42c4-9607-a9dab25af96f)
