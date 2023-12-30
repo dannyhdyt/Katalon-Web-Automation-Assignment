@@ -24,7 +24,7 @@ To run these tests locally, follow these steps:
     git clone https://github.com/dannyhdyt/Katalon-Web-Automation-Assignment.git 
     ```
 2. Open Katalon Studio.
-3. After git clone there will be a folder name `Katalon-Web-Automation-Assignment`, Open the project in Katalon
+3. After the git clone there will be a folder named `Katalon-Web-Automation-Assignment`, Open the project in Katalon
 4. Configure necessary settings (e.g., browser choice, test data).
 5. Run the desired test suites, `Single_Test` or `Paralel_Test` for run all test
 
